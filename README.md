@@ -1,2 +1,2 @@
 # Spotify Time Machine
-Automatic playlist generator of Billboard Top 100 songs based on user-provided date.
+You will need to run `pip3 install spotipy`
